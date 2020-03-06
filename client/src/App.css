@@ -1,0 +1,67 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+  background-color: #fff;
+  padding: 50px;
+  color: #333;
+
+}
+body {
+  font-size: 1.2rem;
+  font-family:   'Brandon Grotesque Regular', sans-serif;
+  background-color: #e5e5e5;
+ 
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.options {
+  cursor: pointer;
+  border: 2px solid green;
+  padding: 10px;
+  margin:10px 100px
+}
+
+.selected {
+  background: linear-gradient(to right, #29ebc7, rgb(161, 228, 161)) !important;
+}
+
+ul {
+  list-style-type: none;
+}
+.navBar{
+  background-color:#fff ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 100px;
+}
+.navBar span{
+  color: #d1181e;
+  font-size: 20px;
+}
+.btnlogout{
+  background-color: grey;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 100px;
+  
+  cursor: pointer;
+}
+.btnAdd{
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+}
+.result h3{
+  color:#d1181e ;
+}

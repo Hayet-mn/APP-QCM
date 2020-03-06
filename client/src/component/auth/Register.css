@@ -1,0 +1,54 @@
+.register{
+    background: #fff;
+    box-shadow: 0 0 1em #222;
+    border-radius: 2px;
+    margin: 100px 200px;
+    padding: 20px;
+    text-align: center;
+
+
+
+}
+
+    input{
+        margin:10px;
+        margin-left:40px;
+        width: 80%;
+        height: 35px;
+        box-sizing: border-box;
+        border-width: 1px;
+        border-color: #aab7b8;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+   
+    .btn{
+        background-color: #d1181e;
+        border-radius: 5px;
+        color: #fff;
+        border: none;
+        width: 20%;
+  }
+  h1{
+    color: #002F36;
+    text-align: center;
+
+  }
+  .my-1{
+    color: #007dbc;
+  }
+  .form select{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color:rgb(0, 47, 54);
+    margin-left: 10px;
+  
+  }
+  .register p {
+    color: #002F36;
+  }
